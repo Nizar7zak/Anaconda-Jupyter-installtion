@@ -1,8 +1,7 @@
 # Anaconda-Jupyter-installtion
 
 # Installation of the Python ecosystem
-
-Our language of choice for this course is Python. We chose Python due to several reasons. First, our choice reflects the current trends and demands in data science, and in programming overall.
+We chose Python due to several reasons. First, our choice reflects the current trends and demands in data science, and in programming overall.
 
 If we look at the number of questions asked on Stack Overflow, THE question and answer site for professional and enthusiast programmers, separated by the different programming languages used in the data science domain, we can see the following overall trend:
 
